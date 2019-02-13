@@ -7,6 +7,7 @@ launch an interactive process from windows service
 ## usage
 
 \> svc_master install
+\> start service <SvcExec>
 
 ## build
 
